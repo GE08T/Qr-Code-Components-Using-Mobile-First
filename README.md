@@ -20,8 +20,8 @@ In This Challenges i learn how to make responsive image, how can i use a flex, a
 
 ### Screenshot
 
-![mobilepreview](/screenshot/mobile-view.jpg)
-![dekstop-preview](./screenshot/desktop-view.jpg)
+![mobilepreview](/screenshot/mobile-view.png)
+![dekstop-preview](./screenshot/desktop-view.png)
 
 ### Links
 
