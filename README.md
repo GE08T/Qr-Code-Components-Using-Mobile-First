@@ -26,7 +26,7 @@ In This Challenges i learn how to make responsive image, how can i use a flex, a
 ### Links
 
 - Solution URL: [This Repository](https://github.com/GE08T/Qr-Code-Components-Using-Mobile-First)
-- Live Site URL: [Deployed in Vercel]([https://your-live-site-url.com](https://qr-code-components-using-mobile-first.vercel.app/))
+- Live Site URL: [Deployed in Vercel](https://qr-code-components-using-mobile-first.vercel.app/)
 
 ## My process
 I start by building mobile first, and i found strugle when i start to buil image because of the width of image, and soon i realize what is my problem and i finally did it.
